@@ -1,5 +1,5 @@
 #sample_ssh
-It's sample code for configuration with router by SSH module.
+It's sample code for configuration to a router by SSH module.
 It was posted the following blog(in Japanese).
 http://qiita.com/taijijiji/items/351c48a8a77ee56f6e79
 
